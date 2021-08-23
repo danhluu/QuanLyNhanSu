@@ -1,0 +1,9 @@
+E:\CSharp_Code\netCore\HTTTQL_Nhom5\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.deps.json
+E:\CSharp_Code\netCore\HTTTQL_Nhom5\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+E:\CSharp_Code\netCore\HTTTQL_Nhom5\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+E:\CSharp_Code\netCore\HTTTQL_Nhom5\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csprojAssemblyReference.cache
+E:\CSharp_Code\netCore\HTTTQL_Nhom5\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+E:\CSharp_Code\netCore\HTTTQL_Nhom5\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+E:\CSharp_Code\netCore\HTTTQL_Nhom5\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+E:\CSharp_Code\netCore\HTTTQL_Nhom5\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.dll
+E:\CSharp_Code\netCore\HTTTQL_Nhom5\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.pdb

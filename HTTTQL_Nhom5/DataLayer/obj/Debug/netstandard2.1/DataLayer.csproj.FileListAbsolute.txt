@@ -1,0 +1,12 @@
+E:\CSharp_Code\netCore\HTTTQL_Nhom5\DataLayer\bin\Debug\netstandard2.1\DataLayer.deps.json
+E:\CSharp_Code\netCore\HTTTQL_Nhom5\DataLayer\bin\Debug\netstandard2.1\DataLayer.dll
+E:\CSharp_Code\netCore\HTTTQL_Nhom5\DataLayer\bin\Debug\netstandard2.1\DataLayer.pdb
+E:\CSharp_Code\netCore\HTTTQL_Nhom5\DataLayer\bin\Debug\netstandard2.1\Common.dll
+E:\CSharp_Code\netCore\HTTTQL_Nhom5\DataLayer\bin\Debug\netstandard2.1\Common.pdb
+E:\CSharp_Code\netCore\HTTTQL_Nhom5\DataLayer\obj\Debug\netstandard2.1\DataLayer.csprojAssemblyReference.cache
+E:\CSharp_Code\netCore\HTTTQL_Nhom5\DataLayer\obj\Debug\netstandard2.1\DataLayer.AssemblyInfoInputs.cache
+E:\CSharp_Code\netCore\HTTTQL_Nhom5\DataLayer\obj\Debug\netstandard2.1\DataLayer.AssemblyInfo.cs
+E:\CSharp_Code\netCore\HTTTQL_Nhom5\DataLayer\obj\Debug\netstandard2.1\DataLayer.csproj.CoreCompileInputs.cache
+E:\CSharp_Code\netCore\HTTTQL_Nhom5\DataLayer\obj\Debug\netstandard2.1\DataLayer.csproj.CopyComplete
+E:\CSharp_Code\netCore\HTTTQL_Nhom5\DataLayer\obj\Debug\netstandard2.1\DataLayer.dll
+E:\CSharp_Code\netCore\HTTTQL_Nhom5\DataLayer\obj\Debug\netstandard2.1\DataLayer.pdb

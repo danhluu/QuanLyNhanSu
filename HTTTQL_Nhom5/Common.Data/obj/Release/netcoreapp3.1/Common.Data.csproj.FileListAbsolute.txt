@@ -1,0 +1,14 @@
+E:\CSharp_Code\netCore\HTTTQL_Nhom5\Common.Data\bin\Release\netcoreapp3.1\Common.Data.deps.json
+E:\CSharp_Code\netCore\HTTTQL_Nhom5\Common.Data\bin\Release\netcoreapp3.1\Common.Data.runtimeconfig.json
+E:\CSharp_Code\netCore\HTTTQL_Nhom5\Common.Data\bin\Release\netcoreapp3.1\Common.Data.runtimeconfig.dev.json
+E:\CSharp_Code\netCore\HTTTQL_Nhom5\Common.Data\bin\Release\netcoreapp3.1\Common.Data.dll
+E:\CSharp_Code\netCore\HTTTQL_Nhom5\Common.Data\bin\Release\netcoreapp3.1\Common.Data.pdb
+E:\CSharp_Code\netCore\HTTTQL_Nhom5\Common.Data\obj\Release\netcoreapp3.1\Common.Data.csprojAssemblyReference.cache
+E:\CSharp_Code\netCore\HTTTQL_Nhom5\Common.Data\obj\Release\netcoreapp3.1\Common.Data.Properties.Resources.resources
+E:\CSharp_Code\netCore\HTTTQL_Nhom5\Common.Data\obj\Release\netcoreapp3.1\Common.Data.csproj.GenerateResource.cache
+E:\CSharp_Code\netCore\HTTTQL_Nhom5\Common.Data\obj\Release\netcoreapp3.1\Common.Data.AssemblyInfoInputs.cache
+E:\CSharp_Code\netCore\HTTTQL_Nhom5\Common.Data\obj\Release\netcoreapp3.1\Common.Data.AssemblyInfo.cs
+E:\CSharp_Code\netCore\HTTTQL_Nhom5\Common.Data\obj\Release\netcoreapp3.1\Common.Data.csproj.CoreCompileInputs.cache
+E:\CSharp_Code\netCore\HTTTQL_Nhom5\Common.Data\obj\Release\netcoreapp3.1\Common.Data.dll
+E:\CSharp_Code\netCore\HTTTQL_Nhom5\Common.Data\obj\Release\netcoreapp3.1\Common.Data.pdb
+E:\CSharp_Code\netCore\HTTTQL_Nhom5\Common.Data\obj\Release\netcoreapp3.1\Common.Data.genruntimeconfig.cache

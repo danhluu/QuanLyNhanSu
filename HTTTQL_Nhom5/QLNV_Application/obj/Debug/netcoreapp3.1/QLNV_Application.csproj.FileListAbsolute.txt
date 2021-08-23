@@ -1,0 +1,12 @@
+E:\CSharp_Code\netCore\HTTTQL_Nhom5\QLNV_Application\bin\Debug\netcoreapp3.1\QLNV_Application.deps.json
+E:\CSharp_Code\netCore\HTTTQL_Nhom5\QLNV_Application\bin\Debug\netcoreapp3.1\QLNV_Application.dll
+E:\CSharp_Code\netCore\HTTTQL_Nhom5\QLNV_Application\bin\Debug\netcoreapp3.1\QLNV_Application.pdb
+E:\CSharp_Code\netCore\HTTTQL_Nhom5\QLNV_Application\bin\Debug\netcoreapp3.1\Common.Data.dll
+E:\CSharp_Code\netCore\HTTTQL_Nhom5\QLNV_Application\bin\Debug\netcoreapp3.1\Common.Data.pdb
+E:\CSharp_Code\netCore\HTTTQL_Nhom5\QLNV_Application\obj\Debug\netcoreapp3.1\QLNV_Application.csprojAssemblyReference.cache
+E:\CSharp_Code\netCore\HTTTQL_Nhom5\QLNV_Application\obj\Debug\netcoreapp3.1\QLNV_Application.AssemblyInfoInputs.cache
+E:\CSharp_Code\netCore\HTTTQL_Nhom5\QLNV_Application\obj\Debug\netcoreapp3.1\QLNV_Application.AssemblyInfo.cs
+E:\CSharp_Code\netCore\HTTTQL_Nhom5\QLNV_Application\obj\Debug\netcoreapp3.1\QLNV_Application.csproj.CoreCompileInputs.cache
+E:\CSharp_Code\netCore\HTTTQL_Nhom5\QLNV_Application\obj\Debug\netcoreapp3.1\QLNV_Application.csproj.CopyComplete
+E:\CSharp_Code\netCore\HTTTQL_Nhom5\QLNV_Application\obj\Debug\netcoreapp3.1\QLNV_Application.dll
+E:\CSharp_Code\netCore\HTTTQL_Nhom5\QLNV_Application\obj\Debug\netcoreapp3.1\QLNV_Application.pdb

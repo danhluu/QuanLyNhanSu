@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "QuanLyNhanVienDb": "Server=LEW;Database=QuanLyNhanVien;Trusted_Connection=True;"
+  }
+}

@@ -1,0 +1,9 @@
+E:\CSharp_Code\netCore\HTTTQL_Nhom5\Common\bin\Debug\netstandard2.1\Common.deps.json
+E:\CSharp_Code\netCore\HTTTQL_Nhom5\Common\bin\Debug\netstandard2.1\Common.dll
+E:\CSharp_Code\netCore\HTTTQL_Nhom5\Common\bin\Debug\netstandard2.1\Common.pdb
+E:\CSharp_Code\netCore\HTTTQL_Nhom5\Common\obj\Debug\netstandard2.1\Common.csprojAssemblyReference.cache
+E:\CSharp_Code\netCore\HTTTQL_Nhom5\Common\obj\Debug\netstandard2.1\Common.AssemblyInfoInputs.cache
+E:\CSharp_Code\netCore\HTTTQL_Nhom5\Common\obj\Debug\netstandard2.1\Common.AssemblyInfo.cs
+E:\CSharp_Code\netCore\HTTTQL_Nhom5\Common\obj\Debug\netstandard2.1\Common.csproj.CoreCompileInputs.cache
+E:\CSharp_Code\netCore\HTTTQL_Nhom5\Common\obj\Debug\netstandard2.1\Common.dll
+E:\CSharp_Code\netCore\HTTTQL_Nhom5\Common\obj\Debug\netstandard2.1\Common.pdb
